@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a BSc Computer Engineering Student at University Duisburg-Essen, always doing random stuff on Linux.
+I mostly do things related to desktop Linux, neovim and nix.
 
 I'm constantly on the lookout for interesting new tech to play with. Currently exploring Rust 🦀 and Nix ❄
 
